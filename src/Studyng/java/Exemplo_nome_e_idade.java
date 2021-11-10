@@ -26,7 +26,7 @@ public class Exemplo_nome_e_idade {
             idade = scan.nextInt();
         }
 
-        System.out.println("Continua aqui......");
+        System.out.println("Continua aqui.......");
 
     }
 }
